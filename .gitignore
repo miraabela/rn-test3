@@ -74,3 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# Meteor galaxy deployment info
+settings.production.json
